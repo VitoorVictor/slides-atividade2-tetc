@@ -744,7 +744,7 @@ function App() {
       </div>
 
       {/* Marca d'água no rodapé */}
-      <div className="absolute bottom-4 left-0 right-0 text-center text-gray-500 text-xs sm:text-sm md:text-base opacity-75">
+      <div className="absolute top-4 left-0 right-0 text-center text-gray-400 text-xs sm:text-sm md:text-base">
         Vitor Gabriel Blasques Victor | RA: 223907-1
       </div>
 
